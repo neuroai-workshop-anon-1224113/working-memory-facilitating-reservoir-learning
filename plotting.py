@@ -3,6 +3,7 @@
 """
     File name: plotting.py
     Description: a set of visualisation functions for experiment analysis
+    Author: Roman Pogodin
     Python version: 3.6
 """
 
