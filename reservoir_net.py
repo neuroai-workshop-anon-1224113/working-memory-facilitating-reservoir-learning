@@ -3,6 +3,7 @@
 """
     File name: reservoir_net.py
     Description: a neural network with readout units and a feedback loop
+    Authors: Roman Pogodin, adapted from Moritz Deger and Joseph Heng
     Python version: 3.6
 """
 
