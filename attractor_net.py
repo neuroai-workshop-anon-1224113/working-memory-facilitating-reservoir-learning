@@ -3,6 +3,7 @@
 """
     File name: attractor_net.py
     Description: a network of rate neurons with attractor dynamics
+    Authors: Roman Pogodin, adapted from Joseph Heng
     Python version: 3.6
 """
 
