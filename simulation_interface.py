@@ -3,6 +3,7 @@
 """
     File name: simulation_interface.py
     Description: a set of functions for recording and training/testing neural networks
+    Author: Roman Pogodin
     Python version: 3.6
 """
 
