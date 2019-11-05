@@ -3,6 +3,7 @@
 """
     File name: utils.py
     Description: a set of function not directly related to experiments
+    Author: Roman Pogodin
     Python version: 3.6
 """
 
