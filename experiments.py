@@ -1,8 +1,11 @@
+
+Learn more or give us feedback
 # -*- coding: utf-8 -*-
 
 """
     File name: experiments.py
     Description: a set of functions for recording experiments
+    Author: Roman Pogodin
     Python version: 3.6
 """
 
